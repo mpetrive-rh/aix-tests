@@ -1,0 +1,5 @@
+#potential parameters you might need to change
+[all:vars]
+#this may need to be changed to their installation python path
+ansible_python_interpreter=/usr/bin/python
+ansible_sudo_exe
